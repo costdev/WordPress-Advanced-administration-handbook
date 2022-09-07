@@ -18,7 +18,7 @@ WordPress.org has released [Learn WordPress](https://learn.wordpress.org/) which
 
 They will teach you the basics of HTML and CSS in their [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) course.
 
-If you'd like to dive deeper with JavaScript, you can do so in their [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap) course, which will get you started with JavaScript and even React, which will be helpful for you to developer themes, plugins, and especially blocks.
+If you'd like to dive deeper with JavaScript, you can do so in their [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap) course, which will get you started with JavaScript and even React, which will be helpful for you to develop themes, plugins, and especially blocks.
 
 Unfortunately, there's currently no PHP course.
 
@@ -31,7 +31,7 @@ Beyond that, these are some resources you might find helpful for each of the lan
 - [Learn How to Make Websites](https://developer.mozilla.org/en-US/learn)
 
 ## CSS
-If this is your first time using CSS with WordPress, [this document](https://wordpress.org/support/article/css/) provides a fantastic overview
+If this is your first time using CSS with WordPress, [this document](https://wordpress.org/support/article/css/) provides a fantastic overview.
 
 Other than that, these are some solid resources for you to review:
 
